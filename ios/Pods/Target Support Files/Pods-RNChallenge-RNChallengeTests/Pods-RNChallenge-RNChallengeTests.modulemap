@@ -1,0 +1,6 @@
+module Pods_RNChallenge_RNChallengeTests {
+  umbrella header "Pods-RNChallenge-RNChallengeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

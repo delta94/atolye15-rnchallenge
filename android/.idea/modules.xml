@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1795863895/@react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/-1795863895/@react-native-community_geolocation.iml" group="RNChallenge/@react-native-community_geolocation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RNChallenge.iml" filepath="$PROJECT_DIR$/.idea/modules/RNChallenge.iml" group="RNChallenge" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="RNChallenge/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1795863895/react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/-1795863895/react-native-community_geolocation.iml" group="RNChallenge/react-native-community_geolocation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1566359114/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1566359114/react-native-community_masked-view.iml" group="RNChallenge/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1106781645/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1106781645/react-native-gesture-handler.iml" group="RNChallenge/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1861127602/react-native-location.iml" filepath="$PROJECT_DIR$/.idea/modules/-1861127602/react-native-location.iml" group="RNChallenge/react-native-location" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1674041077/react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-1674041077/react-native-permissions.iml" group="RNChallenge/react-native-permissions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-113947601/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-113947601/react-native-reanimated.iml" group="RNChallenge/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-883360010/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-883360010/react-native-safe-area-context.iml" group="RNChallenge/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/163740302/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/163740302/react-native-screens.iml" group="RNChallenge/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/647899627/react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/647899627/react-native-svg.iml" group="RNChallenge/react-native-svg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/562793769/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/562793769/react-native-vector-icons.iml" group="RNChallenge/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-577317120/react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-577317120/react-native-webview.iml" group="RNChallenge/react-native-webview" />
+    </modules>
+  </component>
+</project>
